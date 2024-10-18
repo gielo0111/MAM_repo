@@ -1,0 +1,16 @@
+20241018
+
+-include fayol and katz capability framework in the paper
+-include all learnings in class
+-check rubrics
+-insights added
+-use 7s to explain your framework
+
+How to use 7s
+-analyze every s
+compare the current situation as best as you can with the competition
+write down your brief analyses and try to use facts (for isntance your
+modenrn/up todate systems, absenteeism, or level of education
+-end every paragraph with Matter or degree of development
+-draw a final conclusion and highlight which 'S' needs to develop.
+
